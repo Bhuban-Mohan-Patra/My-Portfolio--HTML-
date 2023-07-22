@@ -1,2 +1,2 @@
 # My-Portfolio--HTML-
-Only use of Html
+This is my portfolio which is built by only the use of HTML and no CSS.
